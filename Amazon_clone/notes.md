@@ -1,0 +1,1 @@
+CDN -- Content Delivery Network - it is used to send data from nearest server around user. That is closest the server, faster the content loads on user's device
